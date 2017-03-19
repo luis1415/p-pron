@@ -8,6 +8,19 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <style>
+        /* Always set the map height explicitly to define the size of the div
+         * element that contains the map. */
+        #map {
+            height: 100%;
+        }
+        /* Optional: Makes the sample page fill the window. */
+        html, body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
 </head>
 <body>
 <nav class="navbar navbar-inverse">
@@ -19,7 +32,7 @@
             <li class="active"><a href="<?php echo base_url(); ?>"><img src="<?php echo base_url(); ?>imagenes/icono.jpg" height="32" width="42"></a></li>
             <li><a href="#">Pronóstico</a></li>
             <li><a href="#">Forecast</a></li>
-            <li><a href="#">Acerca del Pronóstico</a></li>
+            <li><a href="<?= base_url() ?>index.php/about">Acerca del Pronóstico</a></li>
         </ul>
     </div>
 </nav>
