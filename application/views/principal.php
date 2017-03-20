@@ -70,6 +70,7 @@
 
     }
 
+    // funciones para activar o desactivar los kml
     function img_wrf() {
         var srcImage = 'http://siata.gov.co/data/imagenes_pronostico_wrf/20170304_0700/WRF_MP08/wrfout_Wind_d03_MP08_20170304_0700_20170305_2300.png';
         initMap(srcImage);
@@ -85,23 +86,15 @@
         initMap(srcImage);
     }
 
+    // fuente del codigo: https://developers.google.com/maps/documentation/javascript/examples/overlay-simple?hl=es-419
+    
     /** @constructor */
     function USGSOverlay(bounds, image, map) {
-
-
         // Initialize all properties.
         this.bounds_ = bounds;
         this.image_ = image;
         this.map_ = map;
-
-
-
-        // Define a property to hold the image's div. We'll
-        // actually create this div upon receipt of the onAdd()
-        // method so we'll leave it null for now.
         this.div_ = null;
-
-        // Explicitly call setMap on this overlay.
         this.setMap(map);
     }
 

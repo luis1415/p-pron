@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08d85b8e-e885-48ec-81d0-ac749887a538" name="Default" comment="Commit inicial">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/principal.php" afterPath="$PROJECT_DIR$/application/views/principal.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/template/header.php" afterPath="$PROJECT_DIR$/application/views/template/header.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,14 +20,14 @@
       <file leaf-file-name="principal.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/views/principal.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="478">
-              <caret line="84" column="8" lean-forward="false" selection-start-line="84" selection-start-column="8" selection-end-line="84" selection-end-column="8" />
+            <state relative-caret-position="-1349">
+              <caret line="89" column="4" lean-forward="false" selection-start-line="89" selection-start-column="4" selection-end-line="89" selection-end-column="4" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#a#0;n#h4#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#a#0;n#h4#0;n#div#0;n#div#1;n#div#1;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
-                <element signature="e#6399#6405#0#HTML" expanded="true" />
+                <element signature="e#6344#6350#0#HTML" expanded="true" />
                 <element signature="n#style#0;n#p#1;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -272,12 +270,12 @@
       <workItem from="1489756019013" duration="5168000" />
       <workItem from="1489767128518" duration="10035000" />
       <workItem from="1489907947881" duration="8251000" />
-      <workItem from="1490024388494" duration="14615000" />
+      <workItem from="1490024388494" duration="14901000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58467000" />
+    <option name="totallyTimeSpent" value="58753000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1020" extended-state="0" />
@@ -355,7 +353,7 @@
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#a#0;n#h4#0;n#div#0;n#div#1;n#div#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
-            <element signature="e#6399#6405#0#HTML" expanded="true" />
+            <element signature="e#6344#6350#0#HTML" expanded="true" />
             <element signature="n#style#0;n#p#1;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -385,7 +383,7 @@
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#a#0;n#h4#0;n#div#0;n#div#1;n#div#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
-            <element signature="e#6399#6405#0#HTML" expanded="true" />
+            <element signature="e#6344#6350#0#HTML" expanded="true" />
             <element signature="n#style#0;n#p#1;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -414,7 +412,7 @@
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#a#0;n#h4#0;n#div#0;n#div#1;n#div#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
-            <element signature="e#6399#6405#0#HTML" expanded="true" />
+            <element signature="e#6344#6350#0#HTML" expanded="true" />
             <element signature="n#style#0;n#p#1;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -443,7 +441,7 @@
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#a#0;n#h4#0;n#div#0;n#div#1;n#div#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
-            <element signature="e#6399#6405#0#HTML" expanded="true" />
+            <element signature="e#6344#6350#0#HTML" expanded="true" />
             <element signature="n#style#0;n#p#1;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -472,7 +470,7 @@
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#a#0;n#h4#0;n#div#0;n#div#1;n#div#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
-            <element signature="e#6399#6405#0#HTML" expanded="true" />
+            <element signature="e#6344#6350#0#HTML" expanded="true" />
             <element signature="n#style#0;n#p#1;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -653,14 +651,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/principal.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="84" column="8" lean-forward="false" selection-start-line="84" selection-start-column="8" selection-end-line="84" selection-end-column="8" />
+        <state relative-caret-position="-1349">
+          <caret line="89" column="4" lean-forward="false" selection-start-line="89" selection-start-column="4" selection-end-line="89" selection-end-column="4" />
           <folding>
             <element signature="n#style#0;n#p#0;n#a#0;n#h4#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#a#0;n#h4#0;n#div#0;n#div#1;n#div#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
-            <element signature="e#6399#6405#0#HTML" expanded="true" />
+            <element signature="e#6344#6350#0#HTML" expanded="true" />
             <element signature="n#style#0;n#p#1;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
           </folding>
         </state>
