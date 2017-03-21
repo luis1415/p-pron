@@ -10,7 +10,6 @@
         var map = new google.maps.Map(document.getElementById('map'), {
             center: {lat:6.19750 , lng: -75.5247},
             zoom: 11,
-            mapTypeId: google.maps.MapTypeId.ROADMAP
         });
 
         // se crea una lista con los kmls
@@ -26,7 +25,6 @@
         // kml de temperaturas
         layers[1] = new google.maps.KmlLayer({
             url: 'http://siata.gov.co/p-operacional/DatosOperacional/Temperatura.kml',
-            suppressInfoWindows: true,
             map: map
         });
 
@@ -87,7 +85,7 @@
     }
 
     // fuente del codigo: https://developers.google.com/maps/documentation/javascript/examples/overlay-simple?hl=es-419
-    
+
     /** @constructor */
     function USGSOverlay(bounds, image, map) {
         // Initialize all properties.
